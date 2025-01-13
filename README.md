@@ -14,10 +14,8 @@
 
 <h3 align="left">Minhas redes</h3>
 
-<h3>
-  E-mail - guilherme.moizinho17@gmail.com
-  Instagram - guilherme__mv
-</h3>
+<p align="center">E-mail - guilherme.moizinho17@gmail.com</p>
+<p align="center">Instagram - guilherme__mv</p>
 
 #
 
