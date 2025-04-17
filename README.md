@@ -6,8 +6,8 @@
 
 #
 
-<p align="center">👨‍💻 Técnico em Informática pelo IFPB-CG (2023) e Bacharelando em Engenharia de Computação no IFPB-CG. 👨‍💻</p>
-<p align="center">Atualmente estudo 🐍 Python 🐍 e participo de Olimpiadas, como a OPI (Medalhista de Bronze) e a OBI (Programador, Nível 2, Sênhor).</p>
+<p align="center">👨‍💻 Técnico em Informática pelo IFPB-CG (2023) e discente do curso Bacharel em Engenharia de Computação no IFPB-CG. 👨‍💻</p>
+<p align="center">Possuo conhecimentos em 🐍 Python 🐍, um pouco de ☕ Java ☕ e estudando ©. Participo de Olimpiadas, como a OPI (Medalhista de Bronze) e a OBI (Programador, Nível 2, Sênhor).</p>
 <p align="center">Pratico nas plataformas 🐝 Beecrowd (Guilherme_MV) 🐝 e The Huxley. Busco a otimização e velocidade máxima dos códigos.</p>
 
 #
