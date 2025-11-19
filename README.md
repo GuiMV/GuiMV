@@ -13,6 +13,12 @@
 
 #
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
+</div>
+
+#
+
 <h3 align="left">Minhas redes</h3>
 
 <p align="center">E-mail - guilherme.moizinho17@gmail.com</p>
