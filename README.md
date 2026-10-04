@@ -25,7 +25,7 @@
 
 #
 
-<h3 align="left"> Veja mais em  <a href="https://github.com/GuiMV/Games">Games</a> <<a href="https://guimv.github.io/Games/">Portifólio</a>></h3>
+<h3 align="left"> Veja mais em meu <a href="https://github.com/GuiMV/Portfolio">Portfolio</a></h3>
 
 #
 
